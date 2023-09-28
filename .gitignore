@@ -1,0 +1,8 @@
+dist-server/
+dist/
+node_modules/
+.cache/
+.vscode/
+.idea/
+.parcel-cache/
+config.json
